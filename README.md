@@ -1,6 +1,7 @@
-# OpenGL 实时光线追踪渲染器 
-主要内容：使用 OpenGL 实现了一个实时全局光照的光线追踪渲染器。<br>
-功能：在片段着色器中实现了路径追踪算法，支持漫反射与镜面材质，使用联合双边滤波以及帧间重投影进行降噪，康奈尔盒场景达到 30+FPS 以及较好的渲染质量。 <br>
-<iframe width="854" height="480" src="https://github.com/user-attachments/assets/2d9eee55-6bfb-4108-8fcd-9dd4afe04eb6" frameborder="0" allowfullscreen></iframe>
-https://github.com/user-attachments/assets/2d9eee55-6bfb-4108-8fcd-9dd4afe04eb6<br>
-https://github-production-user-asset-6210df.s3.amazonaws.com/49577634/349627295-2d9eee55-6bfb-4108-8fcd-9dd4afe04eb6.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240717%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240717T182046Z&X-Amz-Expires=300&X-Amz-Signature=f85412b259bbf233147f85bf7163e691fdf002f58edb5c0b1452633a665becb3&X-Amz-SignedHeaders=host&actor_id=49577634&key_id=0&repo_id=830151515<br>
+# OpenGL 实时光线追踪渲染器
+
+主要内容：使用 OpenGL 实现了一个实时全局光照的光线追踪渲染器。
+
+功能：在片段着色器中实现了路径追踪算法，支持漫反射与镜面材质，使用联合双边滤波以及帧间重投影进行降噪，康奈尔盒场景达到 30+FPS 以及较好的渲染质量。
+
+https://private-user-images.githubusercontent.com/49577634/349627295-2d9eee55-6bfb-4108-8fcd-9dd4afe04eb6.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEyNDE1NDQsIm5iZiI6MTcyMTI0MTI0NCwicGF0aCI6Ii80OTU3NzYzNC8zNDk2MjcyOTUtMmQ5ZWVlNTUtNmJmYi00MTA4LThmY2QtOWRkNGFmZTA0ZWI2Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE3VDE4MzQwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4NzQ2YTI3ODU1YzRkM2JlYjJhNTkwNGQ2ZTE1YmYzOWI5ZmFkZTMwNzMzNTEwYjEyOWNlOGNiYzZiODYzNWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wALMa0pcJxc_iICyYi-CJvyBFD0YFKcp_EdFlqJ7EKw
